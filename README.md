@@ -1,4 +1,4 @@
-# Checkbox - Compose
+# Navigation With Animation - Compose
 
 Description
 -------------
@@ -6,7 +6,7 @@ Description
 <p>
 This project shows how to make animation with navigation in jetpack compose.
 
-
+I explain it in my [youtube video](https://youtu.be/KE91XZjCUQc?si=P_kiGnrEFM8mosWX).<p>
 
 
 ## Images from the Project
